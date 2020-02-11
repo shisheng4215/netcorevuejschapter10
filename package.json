@@ -25,14 +25,16 @@
     "webpack-hot-middleware": "^2.25.0"
   },
   "dependencies": {
-    "@deveodk/vue-toastr": "^1.0.4",
+    "@deveodk/vue-toastr": "^1.1.0",
+    "ajv": "^6.11.0",
     "axios": "^0.17.1",
-    "bootstrap-vue": "^2.0.0-rc.1",
-    "lodash": "^4.17.5",
+    "bootstrap-vue": "^2.4.0",
+    "jquery": "^3.4.1",
+    "lodash": "^4.17.15",
     "nprogress": "^0.2.0",
-    "vee-validate": "^2.0.6",
-    "velocity-animate": "^1.5.1",
-    "vue-slider-component": "^2.5.3",
-    "vuex": "^3.0.1"
+    "vee-validate": "^2.2.15",
+    "velocity-animate": "^1.5.2",
+    "vue-slider-component": "^2.8.16",
+    "vuex": "^3.1.2"
   }
 }
